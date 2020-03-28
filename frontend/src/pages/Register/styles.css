@@ -1,0 +1,27 @@
+ 
+ .person-from-register{
+     height: 100%;
+ }
+ .person-from-register a {
+     color: #8E8C95;
+     text-decoration: none;
+ }
+
+ .person-from-register button {
+     background-color: #E02041;
+     color: #fff;
+     transition:  0.4s;
+
+
+ }
+
+ .person-from-register button:hover {
+     color: #ebebeb;
+     filter: brightness(90%);
+     transition:  0.4s;
+
+ }
+
+ .person-from-register .card{
+    background-color: #F0F0F5;
+ }

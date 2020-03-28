@@ -1,0 +1,55 @@
+.person-butom-logof{
+    background-color: #F0F0F5 ;
+    border-color: #9f9fa1;
+}
+
+.btn-person-profile-novo{
+    background-color: #E02041;
+    color: #fff;
+    transition:  0.6s;
+
+}
+
+.btn-person-profile-novo:hover{
+    
+    filter: brightness(90%);
+    color: #fff;
+
+    transition:  0.6s;
+}
+
+.btn-person-profile-logout{
+    background-color: #F0F0F5 ;
+    border-color: #9f9fa1;
+    color: #E02041;
+    transition:  0.6s;
+
+}
+
+.btn-person-profile-logout:hover{
+    
+    filter: brightness(96%);
+
+    
+
+    transition:  0.6s;
+}
+
+.person-cards-profile{
+
+}
+
+.person-cards-profile button{
+    position: absolute;
+    top: 15px;
+    right: 24px;
+    transition: 0.5s;
+    outline: none;
+
+}
+.person-cards-profile button:hover{
+    opacity: 0.6;
+    transition: 0.5s;
+}
+
+
